@@ -3,6 +3,10 @@ Repository for all projects done on the hyperskill java track.
 
 ### List of projects completed
 
+**Hard Difficulty:**
+- [Coffee Machine] - Simple coffee machine system.
+- [Bulls and Cows] - Guessing game.
+
 **Medium Difficulty:**
 - [Cinema Room Manager] - Super simple cinema booking system.
 
@@ -10,3 +14,5 @@ Repository for all projects done on the hyperskill java track.
 
 
 [Cinema Room Manager]: https://github.com/tknops/hyperskill/tree/main/Cinema%20Room%20Manager
+[Bulls and Cows]: https://github.com/tknops/hyperskill/tree/main/Bulls%20and%20Cows
+[Coffee Machine]: https://github.com/tknops/hyperskill/tree/main/Coffee%20Machine
