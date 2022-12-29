@@ -1,4 +1,6 @@
 # Hyperskill Java Projects
+![Lines of code](https://img.shields.io/tokei/lines/github/tknops/hyperskill)
+![GitHub last commit](https://img.shields.io/github/last-commit/tknops/hyperskill)  
 Repository for all projects done on the hyperskill java track.
 
 ### List of projects completed
