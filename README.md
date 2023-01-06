@@ -5,18 +5,16 @@ Repository for all projects done on the hyperskill java track.
 
 ### List of projects completed
 
-**Challenging Difficulty:**
+**Medium Difficulty:**
 - [Readability Score] - Readability calculator.
-
-**Hard Difficulty:**
 - [Coffee Machine] - Simple coffee machine system.
+
+**Easy Difficulty:**
+- [Chuck Norris Cipher Encoder] - Simple encoder/decoder program.
+- [Cinema Room Manager] - Super simple cinema booking system.
 - [Bulls and Cows] - Guessing game.
 
-**Medium Difficulty:**
-- [Cinema Room Manager] - Super simple cinema booking system.
-
-
-
+[Chuck Norris Cipher Encoder]: https://github.com/tknops/hyperskill/tree/main/Chuck%20Norris%20Cipher%20Encoder
 [Readability Score]: https://github.com/tknops/hyperskill/tree/main/Readability%20Score
 [Coffee Machine]: https://github.com/tknops/hyperskill/tree/main/Coffee%20Machine
 [Bulls and Cows]: https://github.com/tknops/hyperskill/tree/main/Bulls%20and%20Cows
