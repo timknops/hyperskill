@@ -4,25 +4,25 @@ The goal was to get a better understanding of binary notation and data type conv
 
 ```
 Please input operation (encode/decode/exit):
-encode
+> encode
 Input string:
-Hello!
+> Hello!
 Encoded string:
 0 0 00 00 0 0 00 000 0 00 00 00 0 0 00 0 0 000 00 0 0 00 00 00 0 00 00 0 0 00 00 00 0 00 00 0 0 0000 00 0 0 0 00 0000 0 0
 
 Please input operation (encode/decode/exit):
-decode
+> decode
 Input encoded string:
-0 0 00 00 0 0 00 000 0 00 00 00 0 0 00 0 0 000 00 0 0 00 00 00 0 00 00 0 0 00 00 00 0 00 00 0 0 0000 00 0 0 0 00 0000 0 0
+> 0 0 00 00 0 0 00 000 0 00 00 00 0 0 00 0 0 000 00 0 0 00 00 00 0 00 00 0 0 00 00 00 0 00 00 0 0 0000 00 0 0 0 00 0000 0 0
 Decoded string:
 Hello!
 
 Please input operation (encode/decode/exit):
-Hello World!
+> Hello World!
 There is no 'Hello World!' operation
 
 Please input operation (encode/decode/exit):
-exit
+> exit
 Bye!
 
 Process finished with exit code 0
