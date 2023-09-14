@@ -5,12 +5,9 @@ Repository for all projects done on the hyperskill java track.
 
 ### List of projects completed
 
-**Medium Difficulty:**
 - [Encryption Decryption] - Basic encryption/decryption
 - [Readability Score] - Readability calculator.
 - [Coffee Machine] - Simple coffee machine system.
-
-**Easy Difficulty:**
 - [Chuck Norris Cipher Encoder] - Simple encoder/decoder program.
 - [Cinema Room Manager] - Super simple cinema booking system.
 - [Bulls and Cows] - Guessing game.
